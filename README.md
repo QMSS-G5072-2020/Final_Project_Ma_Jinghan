@@ -24,7 +24,8 @@ $ pip install -i https://test.pypi.org/simple/ fred_employment_info
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://fred_employment_info.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://fred-information-info.readthedocs.io/en/latest/
+
 
 ## Contributors
 
