@@ -3,7 +3,7 @@ from fred_employment_info import fred_employment_info
 import pandas as pd
 import pytest
 import os
-api_key = os.environ.get("PRIVATE_API_KEY")
+
 
 
 

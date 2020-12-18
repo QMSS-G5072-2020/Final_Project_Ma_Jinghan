@@ -6,9 +6,8 @@ import matplotlib.pyplot as plt
 import re
 import numpy as np
 from requests.exceptions import HTTPError
-
 import os
-api_key = os.environ.get("PRIVATE_API_KEY")
+
 
 def fred_function(**kwargs):
     """
