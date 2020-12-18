@@ -11,7 +11,14 @@ python = "^3.8"
 [tool.poetry.dev-dependencies]
 sphinx = "^3.3.1"
 sphinxcontrib-napoleon = "^0.7"
+pytest = "^6.2.1"
 
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
+
+[tool.poetry]
+readme = "README.md"
+documentation = "https://fred-information-info.readthedocs.io/en/latest/"
+homepage = "https://github.com/QMSS-G5072-2020/final_project_ma_jinghan"
+repository = "https://github.com/QMSS-G5072-2020/final_project_ma_jinghan"
